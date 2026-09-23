@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+Frontend/node_modules/
+Backend/node_modules/
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+Frontend/.env
+Backend/.env
+
+# Firebase credentials
+serviceAccountKey.json
+firebase-service-account.json
+*-firebase-adminsdk-*.json
+
+# Build folders
+dist/
+build/
+Frontend/dist/
+Backend/dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code optional local settings
+.vscode/
