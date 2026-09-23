@@ -52,9 +52,10 @@ npm run dev
 Open:
 
 ```text
-http://localhost:5173
+http://localhost:5174
 ```
 
 ## Team
 
-Smart India Hackathon 2026
+SCET_TechNexora
+
